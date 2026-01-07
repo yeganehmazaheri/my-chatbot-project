@@ -1,0 +1,462 @@
+2025-10-29 13:39:39,561 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 13:39:39,562 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 13:39:39,572 - INFO -  * Restarting with stat
+2025-10-29 13:39:40,905 - WARNING -  * Debugger is active!
+2025-10-29 13:39:40,912 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 13:39:40,967 - INFO - 127.0.0.1 - - [29/Oct/2025 13:39:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 13:39:40,972 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 13:39:56,293 - INFO - Response sent: \u0633\u0644\u0627\u0645! \u062e\u0648\u0634\u062d\u0627\u0644\u0645 \u06a9\u0647 \u0628\u0647 \u062f\u0633\u062a\u06cc\u0627\u0631 \u0634\u0631\u06a9\u062a \u0633\u0627\u0648\u06cc\u0646 \u0634\u06cc\u0645\u06cc \u0647\u0631\u0645\u0632 \u062e\u0648...
+2025-10-29 13:39:56,294 - INFO - 127.0.0.1 - - [29/Oct/2025 13:39:56] "POST /chat HTTP/1.1" 200 -
+2025-10-29 13:58:25,038 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 13:58:25,038 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 13:58:25,041 - INFO -  * Restarting with stat
+2025-10-29 13:58:26,046 - WARNING -  * Debugger is active!
+2025-10-29 13:58:26,049 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 13:58:51,686 - INFO - 127.0.0.1 - - [29/Oct/2025 13:58:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-29 13:58:51,719 - INFO - 127.0.0.1 - - [29/Oct/2025 13:58:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-29 14:01:26,346 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 14:01:26,346 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 14:01:26,348 - INFO -  * Restarting with stat
+2025-10-29 14:01:27,232 - WARNING -  * Debugger is active!
+2025-10-29 14:01:27,236 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 14:07:36,440 - INFO - 127.0.0.1 - - [29/Oct/2025 14:07:36] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 14:07:36,446 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 14:07:44,916 - INFO - 127.0.0.1 - - [29/Oct/2025 14:07:44] "POST /chat HTTP/1.1" 200 -
+2025-10-29 14:12:17,509 - INFO -  * Detected change in 'F:\\savin\\chatbot.py', reloading
+2025-10-29 14:12:17,608 - INFO -  * Restarting with stat
+2025-10-29 14:12:18,768 - WARNING -  * Debugger is active!
+2025-10-29 14:12:18,770 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 14:13:14,379 - INFO -  * Detected change in 'F:\\savin\\chatbot.py', reloading
+2025-10-29 14:13:14,510 - INFO -  * Restarting with stat
+2025-10-29 14:13:15,748 - WARNING -  * Debugger is active!
+2025-10-29 14:13:15,751 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 14:20:10,347 - INFO - 127.0.0.1 - - [29/Oct/2025 14:20:10] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 14:20:10,354 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 14:20:18,711 - INFO - 127.0.0.1 - - [29/Oct/2025 14:20:18] "POST /chat HTTP/1.1" 200 -
+2025-10-29 14:20:46,120 - INFO - 127.0.0.1 - - [29/Oct/2025 14:20:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 14:20:46,124 - INFO - Received message: \u0627\u06cc\u0646 \u0634\u0645\u0627\u0631\u0647 \u0645\u0646 \u0627\u0633\u062a 09134526177
+2025-10-29 14:21:01,865 - INFO - 127.0.0.1 - - [29/Oct/2025 14:21:01] "POST /chat HTTP/1.1" 200 -
+2025-10-29 14:22:24,301 - INFO - 127.0.0.1 - - [29/Oct/2025 14:22:24] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 14:22:24,310 - INFO - Received message: \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u062a\u0645\u0627\u0633 \u0634\u0631\u06a9\u062a \u0631\u0648 \u0628\u062f\u0647
+2025-10-29 14:22:35,508 - INFO - 127.0.0.1 - - [29/Oct/2025 14:22:35] "POST /chat HTTP/1.1" 200 -
+2025-10-29 14:23:02,409 - INFO - 127.0.0.1 - - [29/Oct/2025 14:23:02] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 14:23:02,417 - INFO - Received message: \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0634\u0631\u06a9\u062a \u0631\u0648 \u0628\u06af\u0648
+2025-10-29 14:23:18,207 - INFO - 127.0.0.1 - - [29/Oct/2025 14:23:18] "POST /chat HTTP/1.1" 200 -
+2025-10-29 15:36:17,946 - INFO - 127.0.0.1 - - [29/Oct/2025 15:36:17] "[33mGET /main.8c1e60f66bb333e9136a.hot-update.json HTTP/1.1[0m" 404 -
+2025-10-29 15:36:40,240 - INFO - 127.0.0.1 - - [29/Oct/2025 15:36:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 15:36:40,246 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 15:36:47,390 - INFO - 127.0.0.1 - - [29/Oct/2025 15:36:47] "POST /chat HTTP/1.1" 200 -
+2025-10-29 15:37:31,271 - INFO - 127.0.0.1 - - [29/Oct/2025 15:37:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 15:37:31,275 - INFO - Received message: \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0634\u0631\u06a9\u062a \u0648 \u062a\u0644\u0641\u0646 \u0627\u0646\u0631\u0627 \u0628\u06af\u0648
+2025-10-29 15:37:40,680 - INFO - 127.0.0.1 - - [29/Oct/2025 15:37:40] "POST /chat HTTP/1.1" 200 -
+2025-10-29 15:48:47,155 - INFO - 127.0.0.1 - - [29/Oct/2025 15:48:47] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 15:48:47,160 - INFO - Received message: \u0634\u0645\u0627\u0631\u0647 \u0645\u0646 09134526178
+2025-10-29 15:48:52,541 - INFO - 127.0.0.1 - - [29/Oct/2025 15:48:52] "POST /chat HTTP/1.1" 200 -
+2025-10-29 15:51:16,789 - INFO - 127.0.0.1 - - [29/Oct/2025 15:51:16] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 15:51:16,795 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 15:51:26,504 - INFO - 127.0.0.1 - - [29/Oct/2025 15:51:26] "POST /chat HTTP/1.1" 200 -
+2025-10-29 15:59:08,137 - INFO -  * Detected change in 'F:\\savin\\chatbot.py', reloading
+2025-10-29 15:59:08,298 - INFO -  * Restarting with stat
+2025-10-29 15:59:09,309 - WARNING -  * Debugger is active!
+2025-10-29 15:59:09,311 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 15:59:31,727 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 15:59:31,727 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 15:59:31,729 - INFO -  * Restarting with stat
+2025-10-29 15:59:32,674 - WARNING -  * Debugger is active!
+2025-10-29 15:59:32,677 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:00:00,281 - INFO - 127.0.0.1 - - [29/Oct/2025 16:00:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:00:00,287 - INFO - Received message: سلام
+2025-10-29 16:00:00,287 - ERROR - Streaming error: 're.Pattern' object has no attribute 'searchmatch'
+2025-10-29 16:00:00,288 - INFO - 127.0.0.1 - - [29/Oct/2025 16:00:00] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:00:08,554 - INFO - 127.0.0.1 - - [29/Oct/2025 16:00:08] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:00:08,562 - INFO - Received message: سلام
+2025-10-29 16:00:08,563 - ERROR - Streaming error: 're.Pattern' object has no attribute 'searchmatch'
+2025-10-29 16:00:08,564 - INFO - 127.0.0.1 - - [29/Oct/2025 16:00:08] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:03:42,375 - INFO -  * Detected change in 'F:\\savin\\chatbot.py', reloading
+2025-10-29 16:03:42,469 - INFO -  * Restarting with stat
+2025-10-29 16:03:55,689 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 16:03:55,689 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 16:03:55,692 - INFO -  * Restarting with stat
+2025-10-29 16:03:56,723 - WARNING -  * Debugger is active!
+2025-10-29 16:03:56,726 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:04:23,339 - INFO - 127.0.0.1 - - [29/Oct/2025 16:04:23] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:04:23,347 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:04:31,170 - INFO - 127.0.0.1 - - [29/Oct/2025 16:04:31] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:04:51,520 - INFO - 127.0.0.1 - - [29/Oct/2025 16:04:51] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:04:51,529 - INFO - Received message: \u0634\u0645\u0627\u0631\u0647 \u062a\u0645\u0627\u0633 \u0634\u0631\u06a9\u062a \u0631\u0627 \u0628\u06af\u0648
+2025-10-29 16:05:01,710 - INFO - 127.0.0.1 - - [29/Oct/2025 16:05:01] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:05:33,825 - INFO - 127.0.0.1 - - [29/Oct/2025 16:05:33] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:05:33,837 - INFO - Received message: \u0686\u0647 \u0645\u0648\u0627\u062f \u0634\u06cc\u0645\u06cc\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0627\u0644\u06cc\u0627\u0641 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u0634\u0647
+2025-10-29 16:05:59,981 - INFO - 127.0.0.1 - - [29/Oct/2025 16:05:59] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:06:31,520 - INFO - 127.0.0.1 - - [29/Oct/2025 16:06:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:06:31,529 - INFO - Received message: \u0634\u0645\u0627\u0631\u0647 \u062a\u0645\u0627\u0633 \u0645\u0646 09134526177
+2025-10-29 16:06:36,980 - INFO - 127.0.0.1 - - [29/Oct/2025 16:06:36] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:10:30,744 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 16:10:30,744 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 16:10:30,746 - INFO -  * Restarting with stat
+2025-10-29 16:10:31,665 - WARNING -  * Debugger is active!
+2025-10-29 16:10:31,667 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:10:52,070 - INFO - 127.0.0.1 - - [29/Oct/2025 16:10:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:10:52,079 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:10:52,105 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F084514B90>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:10:52,106 - INFO - 127.0.0.1 - - [29/Oct/2025 16:10:52] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:11:19,383 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 16:11:19,383 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 16:11:19,386 - INFO -  * Restarting with stat
+2025-10-29 16:11:20,715 - WARNING -  * Debugger is active!
+2025-10-29 16:11:20,719 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:11:42,770 - INFO - 127.0.0.1 - - [29/Oct/2025 16:11:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:11:42,774 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:11:42,789 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000015827D88850>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:11:42,789 - INFO - 127.0.0.1 - - [29/Oct/2025 16:11:42] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:12:53,140 - INFO -  * Detected change in 'F:\\savin\\chatbot.py', reloading
+2025-10-29 16:12:53,255 - INFO -  * Restarting with stat
+2025-10-29 16:12:54,244 - WARNING -  * Debugger is active!
+2025-10-29 16:12:54,247 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:16:05,189 - INFO - 127.0.0.1 - - [29/Oct/2025 16:16:05] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:16:05,196 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:16:13,827 - INFO - 127.0.0.1 - - [29/Oct/2025 16:16:13] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:17:38,238 - INFO - 127.0.0.1 - - [29/Oct/2025 16:17:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:17:38,243 - INFO - Received message: \u0645\u06cc\u062a\u0648\u0646\u0645 \u0634\u0645\u0627\u0631\u0647 \u062a\u0644\u0641\u0646 \u0634\u0631\u06a9\u062a \u0631\u0648 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0645
+2025-10-29 16:17:50,692 - INFO - 127.0.0.1 - - [29/Oct/2025 16:17:50] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:19:43,493 - INFO -  * Detected change in 'F:\\savin\\app.py', reloading
+2025-10-29 16:19:43,596 - INFO -  * Restarting with stat
+2025-10-29 16:19:44,647 - WARNING -  * Debugger is active!
+2025-10-29 16:19:44,649 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:20:38,486 - INFO - 127.0.0.1 - - [29/Oct/2025 16:20:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:20:38,491 - INFO - Received message: \u0645\u06cc\u0634\u0647 \u0628\u0647\u0645 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u062a\u062e\u0635\u0635\u06cc \u062f\u0631\u0645\u0648\u0631\u062f \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u0647\u0627\u06cc \u0634\u0631\u06a9\u062a \u0628\u062f\u06cc
+2025-10-29 16:20:49,433 - INFO - 127.0.0.1 - - [29/Oct/2025 16:20:49] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:22:00,310 - INFO - 127.0.0.1 - - [29/Oct/2025 16:22:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:22:00,314 - INFO - Received message: \u0633\u0644\u0627\u0645 \u0645\u0646 \u0634\u0645\u0627\u0631\u0647 \u062a\u0645\u0627\u0633 \u0634\u0631\u06a9\u062a \u0631\u0648 \u0645\u06cc \u062e\u0648\u0627\u0647\u0645
+2025-10-29 16:22:22,550 - INFO - 127.0.0.1 - - [29/Oct/2025 16:22:22] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:22:57,260 - INFO - 127.0.0.1 - - [29/Oct/2025 16:22:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:22:57,266 - INFO - Received message: \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0634\u0631\u06a9\u062a \u0631\u0648 \u0628\u06af\u0648
+2025-10-29 16:23:12,200 - INFO - 127.0.0.1 - - [29/Oct/2025 16:23:12] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:27:11,915 - INFO - 127.0.0.1 - - [29/Oct/2025 16:27:11] "[33mGET /main.514ffdbb7720b2cf6e2b.hot-update.json HTTP/1.1[0m" 404 -
+2025-10-29 16:27:21,745 - INFO - 127.0.0.1 - - [29/Oct/2025 16:27:21] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:27:21,750 - INFO - Received message: sghl
+2025-10-29 16:27:35,017 - INFO - 127.0.0.1 - - [29/Oct/2025 16:27:35] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:27:48,770 - INFO - 127.0.0.1 - - [29/Oct/2025 16:27:48] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:27:48,777 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:27:56,031 - INFO - 127.0.0.1 - - [29/Oct/2025 16:27:56] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:32:37,601 - INFO - 127.0.0.1 - - [29/Oct/2025 16:32:37] "[33mGET /main.6a651289447140f90cc9.hot-update.json HTTP/1.1[0m" 404 -
+2025-10-29 16:32:39,604 - INFO - 127.0.0.1 - - [29/Oct/2025 16:32:39] "[33mGET /main.6a651289447140f90cc9.hot-update.json HTTP/1.1[0m" 404 -
+2025-10-29 16:32:57,879 - INFO - 127.0.0.1 - - [29/Oct/2025 16:32:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:32:57,882 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:33:03,194 - INFO - 127.0.0.1 - - [29/Oct/2025 16:33:03] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:40:59,042 - INFO - 127.0.0.1 - - [29/Oct/2025 16:40:59] "[33mGET /sh.png HTTP/1.1[0m" 404 -
+2025-10-29 16:45:58,237 - INFO - 127.0.0.1 - - [29/Oct/2025 16:45:58] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:45:58,241 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:46:10,273 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DCA809CB90>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:46:10,273 - INFO - 127.0.0.1 - - [29/Oct/2025 16:46:10] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:47:11,500 - INFO - 127.0.0.1 - - [29/Oct/2025 16:47:11] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:47:11,504 - INFO - Received message: \u0645\u062a\u06a9\u0645\u062f
+2025-10-29 16:47:23,544 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DCA80A1310>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:47:23,544 - INFO - 127.0.0.1 - - [29/Oct/2025 16:47:23] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:47:55,852 - INFO - 127.0.0.1 - - [29/Oct/2025 16:47:55] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:47:55,856 - INFO - Received message: \u0630\u0627\u0626\u0626\u0626\u0626\u0626\u0626\u0626\u0626\u0626\u0626\u0626\u0626\u0626
+2025-10-29 16:48:07,918 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DCA80A2350>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:48:07,918 - INFO - 127.0.0.1 - - [29/Oct/2025 16:48:07] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:49:33,196 - INFO - 127.0.0.1 - - [29/Oct/2025 16:49:33] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:49:33,200 - INFO - Received message: \u0633\u0641\u063a\u0644
+2025-10-29 16:49:44,296 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DCA809B950>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:49:44,296 - INFO - 127.0.0.1 - - [29/Oct/2025 16:49:44] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:51:46,558 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 16:51:46,559 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 16:51:46,559 - INFO -  * Restarting with stat
+2025-10-29 16:51:47,406 - WARNING -  * Debugger is active!
+2025-10-29 16:51:47,409 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:52:01,670 - INFO - 127.0.0.1 - - [29/Oct/2025 16:52:01] "[33mGET /main.9a21844b8c48150a93d5.hot-update.json HTTP/1.1[0m" 404 -
+2025-10-29 16:52:14,892 - INFO - 127.0.0.1 - - [29/Oct/2025 16:52:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:52:14,896 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:52:25,964 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5D8A80AD0>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:52:25,964 - INFO - 127.0.0.1 - - [29/Oct/2025 16:52:25] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:57:40,038 - INFO - 127.0.0.1 - - [29/Oct/2025 16:57:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:57:40,041 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:57:51,109 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5D8A8C350>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:57:51,109 - INFO - 127.0.0.1 - - [29/Oct/2025 16:57:51] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:58:15,456 - INFO - 127.0.0.1 - - [29/Oct/2025 16:58:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:58:15,459 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:58:15,461 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5D8A8FF10>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:58:15,461 - INFO - 127.0.0.1 - - [29/Oct/2025 16:58:15] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:58:29,679 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-10-29 16:58:29,679 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 16:58:29,680 - INFO -  * Restarting with stat
+2025-10-29 16:58:30,435 - WARNING -  * Debugger is active!
+2025-10-29 16:58:30,437 - INFO -  * Debugger PIN: 108-299-272
+2025-10-29 16:58:55,136 - INFO - 127.0.0.1 - - [29/Oct/2025 16:58:55] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:58:55,140 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 16:58:55,150 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D95DE77E10>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 16:58:55,151 - INFO - 127.0.0.1 - - [29/Oct/2025 16:58:55] "POST /chat HTTP/1.1" 200 -
+2025-10-29 16:59:53,569 - INFO - 127.0.0.1 - - [29/Oct/2025 16:59:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 16:59:53,573 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 17:00:05,622 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D95DE8BBD0>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 17:00:05,622 - INFO - 127.0.0.1 - - [29/Oct/2025 17:00:05] "POST /chat HTTP/1.1" 200 -
+2025-10-29 17:00:57,831 - INFO - 127.0.0.1 - - [29/Oct/2025 17:00:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-10-29 17:00:57,834 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-10-29 17:00:57,836 - ERROR - Streaming API error: HTTPSConnectionPool(host='api.z.ai', port=443): Max retries exceeded with url: /api/paas/v4/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D95DE8F750>: Failed to resolve 'api.z.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-10-29 17:00:57,836 - INFO - 127.0.0.1 - - [29/Oct/2025 17:00:57] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:36:08,066 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-11-02 11:36:08,067 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-02 11:36:08,087 - INFO -  * Restarting with stat
+2025-11-02 11:36:09,425 - WARNING -  * Debugger is active!
+2025-11-02 11:36:09,432 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 11:36:10,575 - INFO - 127.0.0.1 - - [02/Nov/2025 11:36:10] "[33mGET /sh.png HTTP/1.1[0m" 404 -
+2025-11-02 11:36:18,611 - INFO - 127.0.0.1 - - [02/Nov/2025 11:36:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:36:18,619 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-11-02 11:36:26,409 - INFO - 127.0.0.1 - - [02/Nov/2025 11:36:26] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:37:00,541 - INFO - 127.0.0.1 - - [02/Nov/2025 11:37:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:37:00,552 - INFO - Received message: \u0627\u0644\u06cc\u0627\u0641 \u0646\u062e \u0647\u0627\u06cc \u062a\u062e\u0635\u0635\u06cc \u0631\u0627 \u0628\u06af\u0648
+2025-11-02 11:37:11,015 - INFO - 127.0.0.1 - - [02/Nov/2025 11:37:11] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:39:43,988 - INFO - 127.0.0.1 - - [02/Nov/2025 11:39:43] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:39:43,994 - INFO - Received message: 09134556177
+2025-11-02 11:39:47,585 - INFO - 127.0.0.1 - - [02/Nov/2025 11:39:47] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:40:20,224 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-11-02 11:40:20,224 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-02 11:40:20,227 - INFO -  * Restarting with stat
+2025-11-02 11:40:21,616 - WARNING -  * Debugger is active!
+2025-11-02 11:40:21,619 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 11:40:52,676 - INFO - 127.0.0.1 - - [02/Nov/2025 11:40:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:40:52,687 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-11-02 11:41:00,874 - INFO - 127.0.0.1 - - [02/Nov/2025 11:41:00] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:41:23,378 - INFO - 127.0.0.1 - - [02/Nov/2025 11:41:23] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:41:23,386 - INFO - Received message: \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u062a\u0645\u0627\u0633 \u0634\u0631\u06a9\u062a \u0631\u0627 \u0628\u06af\u0648
+2025-11-02 11:41:35,983 - INFO - 127.0.0.1 - - [02/Nov/2025 11:41:35] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:41:57,360 - INFO - 127.0.0.1 - - [02/Nov/2025 11:41:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:41:57,368 - INFO - Received message: \u0627\u0644\u06cc\u0627\u0641 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0635\u0648\u0631\u062a \u062a\u062e\u0635\u0635\u06cc \u062a\u0648\u0636\u06cc\u062d \u0628\u062f\u0647
+2025-11-02 11:42:05,045 - INFO - 127.0.0.1 - - [02/Nov/2025 11:42:05] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:42:18,296 - INFO - 127.0.0.1 - - [02/Nov/2025 11:42:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:42:18,305 - INFO - Received message: 09134526177
+2025-11-02 11:42:23,410 - INFO - 127.0.0.1 - - [02/Nov/2025 11:42:23] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:46:11,123 - INFO - 127.0.0.1 - - [02/Nov/2025 11:46:11] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:46:11,132 - INFO - Received message: \u0686\u062c\u0648\u0631\u06cc \u0645\u06cc\u062a\u0648\u0646\u0645 \u0627\u0632 \u0634\u0631\u06a9\u062a \u0645\u062d\u0635\u0648\u0644\u06cc \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u06a9\u0646\u0645
+2025-11-02 11:46:21,641 - INFO - 127.0.0.1 - - [02/Nov/2025 11:46:21] "POST /chat HTTP/1.1" 200 -
+2025-11-02 11:47:16,004 - INFO - 127.0.0.1 - - [02/Nov/2025 11:47:16] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 11:47:16,013 - INFO - Received message: \u0633\u0644\u0627\u0645 \u062e\u0648\u0628\u06cc
+2025-11-02 11:47:23,001 - INFO - 127.0.0.1 - - [02/Nov/2025 11:47:23] "POST /chat HTTP/1.1" 200 -
+2025-11-02 12:44:55,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.39:5000
+2025-11-02 12:44:55,331 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-02 12:44:55,337 - INFO -  * Restarting with stat
+2025-11-02 12:44:56,062 - WARNING -  * Debugger is active!
+2025-11-02 12:44:56,065 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 12:45:05,680 - INFO - 127.0.0.1 - - [02/Nov/2025 12:45:05] "[33mGET /sh.png HTTP/1.1[0m" 404 -
+2025-11-02 12:45:13,807 - INFO - 127.0.0.1 - - [02/Nov/2025 12:45:13] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 12:45:13,811 - INFO - Received message: \u0633\u0644\u0627\u0645
+2025-11-02 12:45:20,762 - INFO - 127.0.0.1 - - [02/Nov/2025 12:45:20] "POST /chat HTTP/1.1" 200 -
+2025-11-02 12:46:28,292 - INFO - 127.0.0.1 - - [02/Nov/2025 12:46:28] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 12:46:28,296 - INFO - Received message: \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u062a\u0645\u0627\u0633
+2025-11-02 12:46:39,156 - INFO - 127.0.0.1 - - [02/Nov/2025 12:46:39] "POST /chat HTTP/1.1" 200 -
+2025-11-02 12:47:27,626 - INFO - 127.0.0.1 - - [02/Nov/2025 12:47:27] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 12:47:27,632 - INFO - Received message: \u0644\u06cc\u0633\u062a \u0631\u06cc\u062c\u0646\u062a\u0647\u0627\u06cc \u0641\u0631\u0627\u0648\u0631\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc\u0645 \u0627\u0631\u0633\u0627\u0644 \u06a9\u0646
+2025-11-02 12:47:37,449 - INFO - 127.0.0.1 - - [02/Nov/2025 12:47:37] "POST /chat HTTP/1.1" 200 -
+2025-11-02 12:48:44,490 - INFO -  * Detected change in 'F:\\savin\\app.py', reloading
+2025-11-02 12:48:44,592 - INFO -  * Restarting with stat
+2025-11-02 12:48:45,318 - WARNING -  * Debugger is active!
+2025-11-02 12:48:45,320 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 12:49:07,472 - INFO - 127.0.0.1 - - [02/Nov/2025 12:49:07] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 12:49:07,475 - INFO - Received message: \u0646\u062d\u0648\u0647 \u062e\u0631\u06cc\u062f \u0645\u062d\u0635\u0648\u0644
+2025-11-02 12:49:32,469 - INFO - 127.0.0.1 - - [02/Nov/2025 12:49:32] "POST /chat HTTP/1.1" 200 -
+2025-11-02 12:49:39,069 - INFO -  * Detected change in 'F:\\savin\\app.py', reloading
+2025-11-02 12:49:39,166 - INFO -  * Restarting with stat
+2025-11-02 12:49:40,061 - WARNING -  * Debugger is active!
+2025-11-02 12:49:40,064 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 12:50:17,351 - INFO - 127.0.0.1 - - [02/Nov/2025 12:50:17] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-02 12:50:17,354 - INFO - Received message: \u0646\u062d\u0648\u0647 \u062e\u0631\u06cc\u062f \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0634\u0631\u06a9\u062a
+2025-11-02 12:50:29,679 - INFO - 127.0.0.1 - - [02/Nov/2025 12:50:29] "POST /chat HTTP/1.1" 200 -
+2025-11-02 12:55:53,197 - INFO -  * Detected change in 'F:\\savin\\app.py', reloading
+2025-11-02 12:55:53,293 - INFO -  * Restarting with stat
+2025-11-02 12:55:54,076 - WARNING -  * Debugger is active!
+2025-11-02 12:55:54,078 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 13:02:34,335 - INFO -  * Detected change in 'F:\\savin\\app.py', reloading
+2025-11-02 13:02:34,420 - INFO -  * Restarting with stat
+2025-11-02 13:02:35,159 - WARNING -  * Debugger is active!
+2025-11-02 13:02:35,161 - INFO -  * Debugger PIN: 482-450-811
+2025-11-02 13:02:36,254 - INFO -  * Detected change in 'F:\\savin\\app.py', reloading
+2025-11-02 13:02:36,354 - INFO -  * Restarting with stat
+2025-11-05 13:06:39,416 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.106:5000
+2025-11-05 13:06:39,416 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-05 13:06:39,426 - INFO -  * Restarting with stat
+2025-11-05 13:06:40,532 - WARNING -  * Debugger is active!
+2025-11-05 13:06:40,538 - INFO -  * Debugger PIN: 108-299-272
+2025-11-05 13:06:46,978 - INFO - 127.0.0.1 - - [05/Nov/2025 13:06:46] "[33mGET /sh.png HTTP/1.1[0m" 404 -
+2025-11-05 13:07:04,955 - INFO - 127.0.0.1 - - [05/Nov/2025 13:07:04] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:07:04,961 - INFO - Received message: hi
+2025-11-05 13:07:10,138 - INFO - 127.0.0.1 - - [05/Nov/2025 13:07:10] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:13:35,367 - INFO - 127.0.0.1 - - [05/Nov/2025 13:13:35] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:13:35,371 - INFO - Received message: tell me about products
+2025-11-05 13:13:51,519 - INFO - 127.0.0.1 - - [05/Nov/2025 13:13:51] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:16:04,575 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.106:5000
+2025-11-05 13:16:04,575 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-05 13:16:04,576 - INFO -  * Restarting with stat
+2025-11-05 13:16:05,511 - WARNING -  * Debugger is active!
+2025-11-05 13:16:05,513 - INFO -  * Debugger PIN: 108-299-272
+2025-11-05 13:17:00,890 - INFO - 127.0.0.1 - - [05/Nov/2025 13:17:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:17:00,896 - INFO - Received message: tell me about products
+2025-11-05 13:17:34,840 - INFO - 127.0.0.1 - - [05/Nov/2025 13:17:34] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:18:48,561 - INFO - 127.0.0.1 - - [05/Nov/2025 13:18:48] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:18:48,566 - INFO - Received message: number of company?
+2025-11-05 13:18:59,232 - INFO - 127.0.0.1 - - [05/Nov/2025 13:18:59] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:19:02,764 - ERROR - Streaming error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-11-05 13:19:38,249 - INFO - 127.0.0.1 - - [05/Nov/2025 13:19:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:19:38,255 - INFO - Received message: tell me about products
+2025-11-05 13:20:03,399 - INFO - 127.0.0.1 - - [05/Nov/2025 13:20:03] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:25:46,761 - INFO - 127.0.0.1 - - [05/Nov/2025 13:25:46] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:25:46,768 - INFO - Received message: hi
+2025-11-05 13:25:51,293 - INFO - 127.0.0.1 - - [05/Nov/2025 13:25:51] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:26:15,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.106:5000
+2025-11-05 13:26:15,824 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-05 13:26:15,825 - INFO -  * Restarting with stat
+2025-11-05 13:26:17,241 - WARNING -  * Debugger is active!
+2025-11-05 13:26:17,244 - INFO -  * Debugger PIN: 108-299-272
+2025-11-05 13:26:36,623 - INFO - 127.0.0.1 - - [05/Nov/2025 13:26:36] "[33mGET /main.38b16a4389d8c14c65c6.hot-update.json HTTP/1.1[0m" 404 -
+2025-11-05 13:26:44,132 - INFO - 127.0.0.1 - - [05/Nov/2025 13:26:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:26:44,139 - INFO - Received message: hi
+2025-11-05 13:26:49,726 - INFO - 127.0.0.1 - - [05/Nov/2025 13:26:49] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:30:20,129 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.106:5000
+2025-11-05 13:30:20,129 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-05 13:30:20,131 - INFO -  * Restarting with stat
+2025-11-05 13:30:21,633 - WARNING -  * Debugger is active!
+2025-11-05 13:30:21,637 - INFO -  * Debugger PIN: 108-299-272
+2025-11-05 13:30:44,699 - INFO - 127.0.0.1 - - [05/Nov/2025 13:30:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:30:44,707 - INFO - Received message: hi
+2025-11-05 13:30:49,023 - INFO - 127.0.0.1 - - [05/Nov/2025 13:30:49] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:31:03,489 - INFO - 127.0.0.1 - - [05/Nov/2025 13:31:03] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:31:03,497 - INFO - Received message: tell me about products
+2025-11-05 13:31:14,216 - INFO - 127.0.0.1 - - [05/Nov/2025 13:31:14] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:32:06,796 - INFO - 127.0.0.1 - - [05/Nov/2025 13:32:06] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:32:06,803 - INFO - Received message: tell me about your contracts
+2025-11-05 13:32:13,966 - INFO - 127.0.0.1 - - [05/Nov/2025 13:32:13] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:33:14,509 - INFO - 127.0.0.1 - - [05/Nov/2025 13:33:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:33:14,515 - INFO - Received message: maryam,maryammotallebi@gmail.com,09134526177
+2025-11-05 13:33:20,742 - INFO - 127.0.0.1 - - [05/Nov/2025 13:33:20] "POST /chat HTTP/1.1" 200 -
+2025-11-05 13:34:33,194 - INFO - 127.0.0.1 - - [05/Nov/2025 13:34:33] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-05 13:34:33,202 - INFO - Received message: tell me about products
+2025-11-05 13:34:43,974 - INFO - 127.0.0.1 - - [05/Nov/2025 13:34:43] "POST /chat HTTP/1.1" 200 -
+2025-11-15 23:13:01,420 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.106:5000
+2025-11-15 23:13:01,420 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-15 23:13:01,433 - INFO -  * Restarting with stat
+2025-11-15 23:13:02,360 - WARNING -  * Debugger is active!
+2025-11-15 23:13:02,364 - INFO -  * Debugger PIN: 108-299-272
+2025-11-15 23:14:40,872 - INFO - 127.0.0.1 - - [15/Nov/2025 23:14:40] "[33mGET /sh.png HTTP/1.1[0m" 404 -
+2025-11-15 23:14:43,458 - INFO - 127.0.0.1 - - [15/Nov/2025 23:14:43] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-15 23:14:43,464 - INFO - Received message: hi
+2025-11-15 23:14:51,855 - INFO - 127.0.0.1 - - [15/Nov/2025 23:14:51] "POST /chat HTTP/1.1" 200 -
+2025-11-15 23:15:11,867 - INFO - 127.0.0.1 - - [15/Nov/2025 23:15:11] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-15 23:15:11,872 - INFO - Received message: tell me about your contracts
+2025-11-15 23:15:16,585 - INFO - 127.0.0.1 - - [15/Nov/2025 23:15:16] "POST /chat HTTP/1.1" 200 -
+2025-11-28 23:04:28,986 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.231.43.64:5000
+2025-11-28 23:04:28,986 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 23:04:28,986 - INFO -  * Restarting with stat
+2025-11-28 23:04:29,731 - WARNING -  * Debugger is active!
+2025-11-28 23:04:29,747 - INFO -  * Debugger PIN: 362-487-408
+2025-11-28 23:05:14,322 - INFO - Received message: Tell me about your services
+2025-11-28 23:05:16,508 - ERROR - Streaming API error: 429 Client Error: Too Many Requests for url: https://api.z.ai/api/paas/v4/chat/completions
+2025-11-28 23:05:16,508 - INFO - 127.0.0.1 - - [28/Nov/2025 23:05:16] "POST /chat HTTP/1.1" 200 -
+2025-11-28 23:05:55,486 - INFO - Received message: hello
+2025-11-28 23:06:01,151 - INFO - 127.0.0.1 - - [28/Nov/2025 23:06:01] "POST /chat HTTP/1.1" 200 -
+2025-11-28 23:07:06,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.231.43.64:5000
+2025-11-28 23:07:06,952 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-28 23:07:06,952 - INFO -  * Restarting with stat
+2025-11-28 23:07:07,853 - WARNING -  * Debugger is active!
+2025-11-28 23:07:07,853 - INFO -  * Debugger PIN: 362-487-408
+2025-11-28 23:07:12,117 - INFO - Received message: hello
+2025-11-28 23:07:17,241 - INFO - 127.0.0.1 - - [28/Nov/2025 23:07:17] "POST /chat HTTP/1.1" 200 -
+2025-11-28 23:07:46,911 - INFO - Received message: Refined Lead Ingots
+2025-11-28 23:07:59,103 - INFO - 127.0.0.1 - - [28/Nov/2025 23:07:59] "POST /chat HTTP/1.1" 200 -
+2025-11-30 05:54:12,985 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.231.43.64:5000
+2025-11-30 05:54:12,985 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-30 05:54:12,985 - INFO -  * Restarting with stat
+2025-11-30 05:54:13,963 - WARNING -  * Debugger is active!
+2025-11-30 05:54:13,968 - INFO -  * Debugger PIN: 362-487-408
+2025-11-30 06:00:31,122 - INFO - 127.0.0.1 - - [30/Nov/2025 06:00:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-30 06:00:31,122 - INFO - Received message: Comprehensive logistics capabilities
+2025-11-30 06:00:43,669 - INFO - 127.0.0.1 - - [30/Nov/2025 06:00:43] "POST /chat HTTP/1.1" 200 -
+2025-11-30 06:00:53,250 - INFO - 127.0.0.1 - - [30/Nov/2025 06:00:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-30 06:00:53,250 - INFO - Received message: hello
+2025-11-30 06:01:03,362 - INFO - 127.0.0.1 - - [30/Nov/2025 06:01:03] "POST /chat HTTP/1.1" 200 -
+2025-12-01 00:47:30,042 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.231.43.64:5000
+2025-12-01 00:47:30,042 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-01 00:47:30,042 - INFO -  * Restarting with stat
+2025-12-01 00:47:30,891 - WARNING -  * Debugger is active!
+2025-12-01 00:47:30,897 - INFO -  * Debugger PIN: 362-487-408
+2025-12-01 00:48:14,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.231.43.64:5000
+2025-12-01 00:48:14,952 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-01 00:48:14,952 - INFO -  * Restarting with stat
+2025-12-01 00:48:15,840 - WARNING -  * Debugger is active!
+2025-12-01 00:48:15,840 - INFO -  * Debugger PIN: 362-487-408
+2025-12-01 00:48:20,939 - INFO - 127.0.0.1 - - [01/Dec/2025 00:48:20] "OPTIONS /chat HTTP/1.1" 200 -
+2025-12-01 00:48:20,946 - INFO - Received message: Contact information 
+2025-12-01 00:48:29,564 - INFO - 127.0.0.1 - - [01/Dec/2025 00:48:29] "POST /chat HTTP/1.1" 200 -
+2025-12-01 00:48:37,752 - INFO - 127.0.0.1 - - [01/Dec/2025 00:48:37] "OPTIONS /chat HTTP/1.1" 200 -
+2025-12-01 00:48:37,752 - INFO - Received message: hello
+2025-12-01 00:48:44,907 - INFO - 127.0.0.1 - - [01/Dec/2025 00:48:44] "POST /chat HTTP/1.1" 200 -
