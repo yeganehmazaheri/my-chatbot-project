@@ -3,6 +3,7 @@ import sys
 import os
 import locale
 
+
 # Set the locale to use UTF-8 encoding
 try:
     locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
